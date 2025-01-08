@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ShoppingListApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ShoppingListApp"
+    xmlns:views="clr-namespace:ShoppingListApp.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="ShoppingListApp"
+    BackgroundColor="White">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate views:ShoppingListPage}"
+        Route="MainPage" />
+
+</Shell>
