@@ -1,6 +1,6 @@
 ## Zrzut ekranu aplikacji 📸
 
-![Screenshot 2025-01-06 111349](https://github.com/user-attachments/assets/6f302c15-1732-415e-8ef4-d18333a99a53)
+![401265541-6f302c15-1732-415e-8ef4-d18333a99a53](https://github.com/user-attachments/assets/1417dbc2-9871-41e0-8e4f-fecd0d1f300c)
 
 # Lista Zakupów 🛍️
 
@@ -16,7 +16,7 @@ Aplikacja wykorzystuje platformę .NET MAUI, co pozwala na jej działanie na wie
     -   Lista zakupów jest zapisywana w formacie plików JSON, co zapewnia trwałość i łatwość modyfikacji.
 
 -   🕹️ **Podział na widoki i modele danych:**
-    -   Projekt został podzielony na oddzielne warstwy widoków (Views) i modeli danych (Models) dla przejrzystości i łatwego rozwoju.
+    -   Projekt został podzielony na oddzielne warstwy widoków (Views) i modeli danych (Models) oraz kontrolki (Controls) dla przejrzystości i łatwego rozwoju.
 
 ## Właściwości interfejsu 🎨
 
